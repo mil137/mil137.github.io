@@ -22,7 +22,7 @@ repository               : "mil137/miaoli137.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar            : "assets/images/profile.png" # Make sure to upload your photo to this path
+  avatar            : "profile.png" # Make sure to upload your photo to this path
   name              : "Miao Li"
   pronouns          : # example: "she/her"  
   bio               : "PhD Candidate in Machine Learning."
