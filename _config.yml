@@ -13,9 +13,9 @@ title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Miao Li"
 description              : &description "PhD Candidate in Machine Learning(ISye)"
-url                      : https://github.com/mil137/miaoli.github.io.git # the base hostname & protocol for your site e.g. "https://scottjhy.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://mil137.github.io # the base hostname & protocol for your site e.g. "https://scottjhy.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/miaoli137.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "miaoli137.github.io.git"
+repository               : "mil137/miaoli137.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
