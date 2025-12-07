@@ -7,76 +7,74 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Personal Website"
-title_separator          : "-"
-name                     : &name "Miao Li"
-description              : &description "PhD Candidate in Machine Learning(ISye)"
-url                      : https://mil137.github.io # the base hostname & protocol for your site e.g. "https://scottjhy.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/miaoli137.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "mil137/miaoli137.github.io"
+locale      : "en-US"
+site_theme  : "default"  # "default" or "air"
+title       : "Miao Li"
+title_separator : "-"
+name        : &name "Miao Li"
+description : &description "PhD student in Industrial & Systems Engineering (Machine Learning Track)"
+url         : https://mil137.github.io               # your GitHub Pages root
+baseurl     : "/miaoli137.github.io"                # project path
+repository  : "mil137/miaoli137.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author - sidebar info
 author:
   # Biographic information
-  avatar            : "profile.png" # Make sure to upload your photo to this path
-  name              : "Miao Li"
-  pronouns          : # example: "she/her"  
-  bio               : "PhD Candidate in Machine Learning."
-  location          : "Atlanta, GA"
-  employer          : "Georgia Institute of Technology"
-  uri               : # URL
-  email             : "mli746@gatech.edu"
+  avatar      : "assets/images/profile.png"         # <-- this matches your actual file
+  name        : "Miao Li"
+  pronouns    :                                    # e.g. "she/her" (optional)
+  bio         : "PhD student in Industrial & Systems Engineering (Machine Learning Track) at Georgia Tech."
+  location    : "Atlanta, GA"
+  employer    : "Georgia Institute of Technology"
+  uri         :
+  email       : "mli746@gatech.edu"
 
   # Academic websites
-  academia          : # URL
-  arxiv             : # URL
-  googlescholar     : "https://scholar.google.com/citations?user=ixqxIAwAAAAJ&hl=en&oi=sra"
-  inspire-hep       : # URL
-  impactstory       : # URL
-  orcid             : # URL
-  semantic          : # URL
-  pubmed            : # URL
-  researchgate      : # URL
-  scopus            : # URL
+  academia       :
+  arxiv          :
+  googlescholar  : "https://scholar.google.com/citations?user=ixqxIAwAAAAJ&hl=en&oi=sra"
+  inspire-hep    :
+  impactstory    :
+  orcid          :
+  semantic       :
+  pubmed         :
+  researchgate   :
+  scopus         :
 
   # Repositories and software development
-  bitbucket         : # Username - Update with your username on the site
-  codepen           : # Username
-  dribbble          : # Username
-  github            : # Username
-  kaggle            : # Username  
-  stackoverflow     : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket   :
+  codepen     :
+  dribbble    :
+  github      : "mil137"          # <-- your GitHub username
+  kaggle      :
+  stackoverflow :
 
   # Social media
-  artstation        : # Username
-  bluesky           : # Username
-  facebook          : # Username
-  flickr            : # Username
-  foursquare        : # Username
-  goodreads         : # Username
-  google_plus       : # Username
-  keybase           : # Username
-  instagram         : # Username
-  lastfm            : # Username
-  linkedin          : # Username
-  mastodon          : # URL
-  medium            : # URL
-  pinterest         : # Username
-  soundcloud        : # Username
-  steam             : # Username
-  telegram          : # URL
-  tumblr            : # Username
-  twitter           : # Username
-  vine              : # Username
-  weibo             : # Username
-  wikipedia         : # Username
-  xing              : # Username
-  youtube           : # Username
-  zhihu             : # Username
+  artstation  :
+  bluesky     :
+  facebook    :
+  flickr      :
+  foursquare  :
+  goodreads   :
+  google_plus :
+  keybase     :
+  instagram   :
+  lastfm      :
+  linkedin    :
+  mastodon    :
+  medium      :
+  pinterest   :
+  soundcloud  :
+  steam       :
+  telegram    :
+  tumblr      :
+  twitter     :
+  vine        :
+  weibo       :
+  wikipedia   :
+  xing        :
+  youtube     :
+  zhihu       :
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
