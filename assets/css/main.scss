@@ -1,13 +1,3 @@
----
----
-
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -39,11 +29,11 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
-   /* --- Miao custom sidebar spacing fix --- */
-
-   /* ==== Custom: more space between sidebar and main content ==== */
-   .sidebar .author__content,
-   .sidebar .author__urls-wrapper {
-     padding-right: 40px;  /* increase this if you want even more space */
-   }
 ;
+
+/* --- Miao custom sidebar spacing fix --- */
+/* More space between the sidebar text and the main content */
+.sidebar .author__content,
+.sidebar .author__urls-wrapper {
+  padding-right: 40px;   /* try 32px, 48px, etc. if you want to tweak */
+}
