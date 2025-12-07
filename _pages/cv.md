@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download a PDF version of my CV
-[here]({{ site.baseurl }}/files/cv.pdf).
-
 Education
 =========
 
