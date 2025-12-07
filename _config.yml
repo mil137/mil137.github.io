@@ -20,7 +20,7 @@ repository  : "mil137/miaoli137.github.io"
 # Site Author - sidebar info
 author:
   # Biographic information
-  avatar      : "assets/images/profile.png"         # <-- this matches your actual file
+  avatar      : "images/profile.png"         # <-- this matches your actual file
   name        : "Miao Li"
   pronouns    :                                    # e.g. "she/her" (optional)
   bio         : "PhD student in Industrial & Systems Engineering (Machine Learning Track) at Georgia Tech."
