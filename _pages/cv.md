@@ -50,7 +50,7 @@ Selected works. * indicates equal contribution.
    Resubmission to *ICML* 2026.
 
 4. **M. Li**, S. Na, M. Kolar.  
-   [“A Theoretically Sound Sequential Quadratic Programming Algorithm on Riemannian Manifolds.”]
+   “A Theoretically Sound Sequential Quadratic Programming Algorithm on Riemannian Manifolds.”
    Preprint 2022, available upon request
 
 Works in Progress
@@ -59,7 +59,7 @@ Works in Progress
 1. H. Jiang*, **M. Li***, et al.  
    “Lightweight Inference-Time Trajectory Optimization for Diffusion Language Models.”  
    Developing a training-free framework for controlling generation trajectories in diffusion-based LLMs.  
-   Manuscript expected Dec 2025.
+   Manuscript expected **Dec 2025**.
 
 2. **M. Li**, H. Jiang, P. Van Hentenryck, et al.  
    “Agentic LLM Orchestration for Real-Time Hybrid Optimization.”  
