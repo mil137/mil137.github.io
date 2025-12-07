@@ -8,26 +8,18 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-#  - title: "Publications"
-#    url: /publications/
+# The following is the order of the links in the header of the website.
 
-#  - title: "Talks"
- #   url: /talks/    
+main:
+  - title: "About"
+    url: /
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
- #   url: /portfolio/
-        
- # - title: "Blog Posts"
-#    url: /year-archive/
-    
- # - title: "CV"
- #   url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
- # - title: "Guide"
- #   url: /markdown/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
+
