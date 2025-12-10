@@ -53,7 +53,7 @@ Selected works. * indicates equal contribution.
 Works in Progress
 =================
 
-1. H. Jiang*, **M. Li***, et al.  
+1. H. Jiang\*, **M. Li**\*, et al.  
    “Lightweight Inference-Time Trajectory Optimization for Diffusion Language Models.”  
    Developing a training-free framework for controlling generation trajectories in diffusion-based LLMs.  
    Manuscript expected **Dec 2025**.
